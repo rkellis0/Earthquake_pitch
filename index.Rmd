@@ -1,0 +1,38 @@
+---
+title       : Fiji Earthquake Data
+subtitle    : Effect of Magnitude
+author      : Ricky Ellison
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Slide 2
+
+Earthquakes can very dangerous and costly to society. When determining to develop certain areas known to earthquakes it is important to understand the sesimic activity in the area.
+
+---
+
+## Slide 3
+
+By utilizing the Fiji data I hope to provide insight on how the magnitude varies base on longitude and latitude.
+
+---
+
+## Slide 4
+
+By studying the magnitude one can guage the depth of the earthquake and its range by identifying the number of stations reported during that incident.
+
+---
+
+## Slide 5
+
+Test my app for yourself
+
+https://rkellis0.shinyapps.io/Earthquake/
+
+---
